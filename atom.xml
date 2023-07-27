@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-06-29T10:37:01.785Z</updated>
+  <updated>2023-07-27T07:02:18.943Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,36 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>http</title>
+    <link href="http://example.com/2023/07/27/http/"/>
+    <id>http://example.com/2023/07/27/http/</id>
+    <published>2023-07-27T07:01:51.000Z</published>
+    <updated>2023-07-27T07:02:18.943Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;hhhhhhhhhhhhhhhh&lt;/p&gt;
+
+        
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="http://example.com/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>改文件夹内文件后缀的小技巧</title>
     <link href="http://example.com/2023/06/29/%E6%94%B9%E6%96%87%E4%BB%B6%E5%90%8E%E7%BC%80%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
     <id>http://example.com/2023/06/29/改文件后缀小技巧/</id>
     <published>2023-06-29T09:43:59.000Z</published>
-    <updated>2023-06-29T10:37:01.785Z</updated>
+    <updated>2023-07-01T00:38:31.602Z</updated>
     
     <summary type="html">
     
